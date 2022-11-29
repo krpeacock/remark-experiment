@@ -1,0 +1,7 @@
+{
+  "title": "Kyle's Website",
+  "images": {
+    "directory": "src/images"
+  },
+  "output": "dist"
+}
